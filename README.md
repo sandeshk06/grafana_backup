@@ -4,7 +4,7 @@ Wizzy based grafana backup python script for  importing dashbaords and  datasour
 
 Before running python script make sure that wizzy setup already  done and  configured grafana source.
 
-Specify backup directory  in script and  do   wizzy initialisation on same directory.
+Specify backup directory  in script and  do wizzy initialisation in same directory.
 
 
 Install below python package before running this script. 
